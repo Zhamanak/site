@@ -1,1 +1,580 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"bo-r",
+				"border-radius\tproperty"
+			],
+			[
+				"bo",
+				"box-sizing\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bor-r",
+				"border-radius"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"lisst",
+				"list-style-image"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"headli",
+				"headline"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"descr",
+				"description"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"tar",
+				"target\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"met",
+				"method\tAttr"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"v",
+				"value\tAttr"
+			],
+			[
+				"ch",
+				"checked\tAttr"
+			],
+			[
+				"la",
+				"labeled"
+			],
+			[
+				"l",
+				"labeled"
+			],
+			[
+				"c",
+				"checked\tAttr"
+			],
+			[
+				"poi",
+				"pointer"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"f",
+				"for\tAttr"
+			],
+			[
+				"pl",
+				"placeholder\tAttr"
+			],
+			[
+				"me",
+				"method\tAttr"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"col",
+				"collapse"
+			],
+			[
+				"styl",
+				"style"
+			],
+			[
+				"row",
+				"rowspan\tAttr"
+			],
+			[
+				"tit",
+				"title\tAttr"
+			],
+			[
+				"ti",
+				"title\tAttr"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"po",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3678,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 4848,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Skill up/chars/first job",
+		"/D/Skill up/chars/first job/css"
+	],
+	"file_history":
+	[
+		"/D/Skill up/chars/5/site - temp/front-end/index.html",
+		"/D/Skill up/chars/5/site - temp/front-end/css/style.css",
+		"/D/Skill up/chars/first job/.gitignore",
+		"/D/Skill up/chars/5/front-end/front-end/index.html",
+		"/D/ST3 - редактор для души/my/1/w1-1/index.html",
+		"/F/skillup/Front-End/Eugene/homew/6/6/sandwitch-buton-snipet.html",
+		"/F/skillup/Front-End/Eugene/homew/6/6/sandwitch-buton-snipet.css",
+		"/F/skillup/Front-End/Eugene/homew/5/front-end/front-end/index.html",
+		"/D/ST3 - редактор для души/my/1/aerial/index.html",
+		"/F/skillup/Front-End/Eugene/homew/first job/index.html",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/F/skillup/Front-End/Eugene/homew/5/front-end/front-end/css/style.css",
+		"/F/skillup/Front-End/Eugene/homew/5/front-end/front-end/css/normalize.css",
+		"/F/skillup/Front-End/front-end/index.html",
+		"/F/skillup/Front-End/front-end/css/normalize.css",
+		"/D/Skill up/test/4-block/style.css",
+		"/F/skillup/Front-End/Eugene/homew/block/style.css",
+		"/F/skillup/Front-End/Eugene/homew/block/index.html",
+		"/D/Skill up/test/4-block/index.html",
+		"/C/Users/user/Desktop/Techno.html",
+		"/D/Skill up/new/style.css",
+		"/D/Skill up/new/index.html",
+		"/D/Skill up/test/index.html",
+		"/D/Skill up/test/css/style.css",
+		"/F/skillup/Front-End/lesson_5/css/style.css",
+		"/F/skillup/Front-End/lesson_5/html/index.html",
+		"/F/skillup/Front-End/lesson_4/style.css",
+		"/F/skillup/Front-End/lesson_4/index.html",
+		"/D/Skill up/6/sandwitch-buton-snipet.html",
+		"/D/Skill up/6/sandwitch-buton-snipet.css",
+		"/D/Skill up/5/site-template/css/style.css",
+		"/D/Skill up/5/site-template/css/font-awesome.css",
+		"/D/Skill up/5/site-template/index.html",
+		"/D/Skill up/5/site-template/img/logo-svg.html",
+		"/F/skillup/Front-End/lesson_2/css/style.css",
+		"/F/skillup/Front-End/Eugene/homew/style.css",
+		"/F/skillup/Front-End/Eugene/homew/index.html",
+		"/F/skillup/Front-End/lesson_2/pages/registration.html",
+		"/F/skillup/Новая папка/п/Checkbox и Radio/CheckboxRadio2.css",
+		"/F/skillup/Новая папка/п/Checkbox и Radio/Checkbox-Radio2.html",
+		"/F/skillup/Новая папка/п/trantition.html",
+		"/F/skillup/Новая папка/п/Checkbox и Radio/CheckboxRadio.css",
+		"/F/skillup/Front-End/lesson_2/pages/catalog.html",
+		"/F/skillup/Новая папка/п/radio.css",
+		"/F/skillup/Новая папка/п/radio.html",
+		"/F/skillup/Front-End/lesson_2/pages/image_gallery.html",
+		"/F/skillup/Front-End/lesson_2/index.html",
+		"/F/skillup/Новая папка/п/shadow/image-shadow.html",
+		"/F/skillup/Новая папка/п/shadow/image-shadow.css",
+		"/F/skillup/table/style.css",
+		"/F/skillup/table/table.html",
+		"/F/skillup/Front-End/lesson_2/pages/articles.html",
+		"/F/skillup/Front-End/lesson_2/article/magnetic.html",
+		"/F/skillup/Front-End/lesson_2/article/article_solar.html",
+		"/F/skillup/Новая папка/style.css",
+		"/F/skillup/Front-End/style.css",
+		"/F/skillup/Front-End/lesson_3/class_work/style1.css",
+		"/F/skillup/Front-End/lesson_3/class_work/style.css",
+		"/F/skillup/Front-End/lesson_2/pages/contacts.html",
+		"/F/skillup/Front-End/lesson_2/pages/page-nav.html",
+		"/F/skillup/Front-End/lesson_3/class_work/index1.html",
+		"/F/skillup/Front-End/lesson_3/class_work/index.html",
+		"/F/skillup/Front-End/lesson_2/style/style.css",
+		"/F/skillup/Front-End/index.html",
+		"/F/skillup/Front-End/index-form.html",
+		"/F/skillup/Front-End/lesson_2/image/gory_8.png",
+		"/D/site (webpage)/Form/formProfileInfo.html",
+		"/F/skillup/Front-End/lesson_2/image/nicubunu_Blue_flower.svg",
+		"/D/site (webpage)/koments.html",
+		"/F/skillup/Front-End/lesson_2/contacts.html",
+		"/F/skillup/Front-End/lesson_2/registration.html",
+		"/F/skillup/Front-End/lesson_2/catalog.html",
+		"/F/skillup/Front-End/lesson_2/image gallery.html",
+		"/N/home/html.loc/www/form.html",
+		"/N/home/html.loc/www/formdata.php",
+		"/D/ST3 - редактор для души/HTML (Popov)/index.html",
+		"/D/ST3 - редактор для души/HTML (Popov)/form.html",
+		"/D/ST3 - редактор для души/HTML (Popov)/formdata.php",
+		"/D/ST3 - редактор для души/(HTML master) First site/index.html",
+		"/D/ST3 - редактор для души/(HTML master) First site/page2.html",
+		"/D/ST3 - редактор для души/Test/index.html",
+		"/D/ST3 - редактор для души/Test/style.css",
+		"/D/site (webpage)/фффффффффк.html",
+		"/D/site (webpage)/Простейшая таблица.html",
+		"/D/site (webpage)/более сложные таблицы..html",
+		"/D/site (webpage)/Итоговая таблица.html",
+		"/D/site (webpage)/Выравнивание содержимого в ячейках",
+		"/D/site (webpage)/подсказка.html",
+		"/D/site (webpage)/Распределение браузеров.html",
+		"/D/site (webpage)/sample img добавление.html",
+		"/D/site (webpage)/sample a hrefe #.html",
+		"/D/ST3 - редактор для души/Test/modul/modul.html",
+		"/D/ST3 - редактор для души/Test/modul/m style.css",
+		"/D/ST3 - редактор для души/Techno/Techno.html",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3678
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 708.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
