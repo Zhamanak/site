@@ -43,7 +43,7 @@ a:hover {
   width: 250px;
   order: -1;
 }
-.right {
+.right-sidebar {
   min-height: 100px;
   background-color: #f0f;
   width: 200px;
@@ -249,7 +249,21 @@ a:hover {
     height: 0;
     background-color: rgba (0, 0, 0, 0.3);
 
-    }*/ 
+    }*/
+
+.widget-news__item{
+  margin: 0 0 10px 0;
+}
+
+.widget {
+  padding: 10px 20px;
+  margin:0 0 20;
+} 
+.widget h3 {
+  margin: 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #333;
+}
 .footer {
   min-height: 100px;
   margin: 10px 0 20px;
