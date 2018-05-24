@@ -257,7 +257,9 @@ a:hover {
 
 .widget {
   padding: 10px 20px;
-  margin:0 0 20;
+  margin: 0 0 20px;
+  border-radius: 7px;
+
 } 
 .widget h3 {
   margin: 0;
