@@ -45,7 +45,7 @@ a:hover {
 }
 .right-sidebar {
   min-height: 100px;
-  background-color: #f0f;
+  /*background-color: #f0f;*/
   width: 200px;
 }
 /*.footer {
@@ -250,21 +250,49 @@ a:hover {
     background-color: rgba (0, 0, 0, 0.3);
 
     }*/
-
-.widget-news__item{
+.widget {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px 20px;
+  margin: 0 0 20px 0;
+  border-radius: 7px;
+  color: #eee;
+}
+  .widget h3 {
+    margin: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #333;
+  }
+  .widget p {
+    line-height: 2em;
+  }
+.widget-news__item {
   margin: 0 0 10px 0;
 }
-
-.widget {
-  padding: 10px 20px;
-  margin: 0 0 20px;
-  border-radius: 7px;
-
-} 
-.widget h3 {
-  margin: 0;
-  padding-bottom: 10px;
-  border-bottom: 1px solid #333;
+.widget-news__item img {
+    width: 100%;
+    transition: 0.3s ;
+ }
+.widget-news__item-img-wrapper {
+  float: left;
+  overflow: hidden;
+  margin: 0 10px 15px 0;
+  width: 80px;
+  height: 80px;
+  border-radius: 4px;
+}
+.widget-news__item span {
+  font-size: 12px;
+  text-shadow: 0px 0px 5px #000000;
+  color: #ccc;
+}
+.widget-news__item div {
+  line-height: 16px;
+}
+.widget-news__item a:hover span {
+    color: #ffffff; 
+}
+.widget-news__item a:hover img {
+  transform: scale(1.2);
 }
 .footer {
   min-height: 100px;
