@@ -37,7 +37,7 @@ a:hover {
   padding-left: 15px;
   padding-right: 15px;
 }
-.left {
+.left-sidebar {
   min-height: 100px;
   background-color: orange;
   width: 250px;
@@ -265,6 +265,19 @@ a:hover {
   .widget p {
     line-height: 2em;
   }
+.widget-search form {
+  position: relative;
+  margin: 15px 0 7px;
+}
+.widget-category__list {
+  padding: 0;
+  list-style: none;
+}
+.widget-category__list-item a {
+  display: block;
+  padding: 10px 0;
+} 
+
 .widget-news__item {
   margin: 0 0 10px 0;
 }
@@ -343,7 +356,7 @@ h3 {
 }
 
 @media (max-width: 1024px) {
-  .right {
+  .right-sidebar {
     width: 100%;
   }
 }
@@ -351,11 +364,11 @@ h3 {
   .main {
     width: 100%;
   }
-  .left {
+  .left-sidebar {
     width: 50%;
     order: 0;
   }
-  .right {
+  .right-sidebar {
     width: 50%;
   }
   .content-item {
