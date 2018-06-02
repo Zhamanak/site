@@ -5,6 +5,7 @@ html {
   font-family: 'Roboto', sans-serif;
 }
 body {
+  padding: 0 20px;
   margin: 0 auto;
   max-width: 1280px;
   background-color: #d8b036;
@@ -227,6 +228,7 @@ a:hover {
   margin-left: -10px;
   margin-right: -10px;
   padding-top: 20px
+
 }
 .main h1 {
   padding: 8px 12px;
@@ -234,18 +236,18 @@ a:hover {
   background: linear-gradient(to left, rgba(0,0,0,0) 0%,rgba(0,0,0,0.8) 100%);
   text-align: left;
   color: #eee;
+  line-height: 1.5em;
 }
-.main-content__title {
-  height: 6%;
-}
+
 .content-item {
-  /*height: 50px;
-  background-color: #777*/;
+ /* height: 50px;
+  background-color: #777;*/
   flex-grow: 1;
   padding: 10px;
   /*height: 50px;
-  background-color: #777*/;
+  background-color: #777;*/
   width: 33.333%;
+
 }
  .content-item:hover .content-item__excerpt {
     top: 27px;
@@ -253,7 +255,8 @@ a:hover {
   }
   .content-item:hover h3 {
     background: rgba(0, 0, 0, 0.5); }
-
+  
+  
 /*.content-item div {
   height: 100%;
   width: 50%;
@@ -265,19 +268,23 @@ a:hover {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  border: 5px solid #0000004d;
+  border: 5px solid rgba(0, 0, 0, 0.4);
   border-radius: 7px;
   background: rgba(0, 0, 0, 0.3);
+
   /*width: 100%;
 */}
 .content-item img{
   margin-bottom: -5px;
   max-width: 100%;
   line-height: 1em;
+
+
  }
+  .content-item__img {
+    background-size: cover;
+  }
  .content-item__excerpt {
-  position: absolute;
-  top: 210%;
   left: 0;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -289,6 +296,8 @@ a:hover {
   background-color: rgba(0, 0, 0, 0.5);
   text-align: center;
   transition: top 0.5s ease-out;
+  position: absolute;
+  top: 210%;
  }
   .content-item h3 {
     white-space: nowrap;
@@ -312,11 +321,10 @@ a:hover {
     position: absolute;
     top: 0;
     left: 0;
-    padding 10px 10px 0;
+    padding: 10px 10px 0;
     height: 0;
-    background-color: rgba (0, 0, 0, 0.3);
-
-    }
+    background-color: rgba(0, 0, 0, 0.3);
+}
 .widget {
   background-color: rgba(0, 0, 0, 0.5);
   padding: 10px 20px;
@@ -342,16 +350,16 @@ a:hover {
   position: absolute;
   margin-top: 1px;
   padding: 7px 9px;
-  border-right: 1px solid #ffffff1a;
+  border-right: 1px solid rgba(225, 225, 225, 0.3);
   color: #eeeeee;
 }
 .widget-search input {
   box-sizing: border-box;
     padding: 7px 8px 7px 40px;
     width: 100%;
-    border: 1px solid #ffffff1a;
+    border: 1px solid rgba(225, 225, 225, 0.3);
     border-radius: 4px;
-    background: #ffffff0d;
+    background: rgba(225, 225, 225, 0.1);
     color: #aaa;
     text-overflow: ellipsis;
     font-size: 12px;
@@ -398,7 +406,7 @@ a:hover {
   transform: scale(1.2);
 }
 .footer {
-  min-height: 100px;
+ 
   margin: 10px 0 20px;
 
 }
@@ -416,15 +424,18 @@ a:hover {
   background-color: rgba(0, 0, 0, 0.4);
 
 }
+    .footer-widget:last-child {
+      margin-right: 0;
+    }
 .footer-top h3 {
   border-bottom: 1px solid #333333;
   padding-bottom: 10px;
-  margin: 10px;
+  margin: 0;
 }
 .footer-bottom {
   box-sizing: border-box;
   color: #eeeeee;
-  margin:20px 0 0 0;
+  margin: 20px 0 0 0;
   padding: 10px 15px;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.4);
@@ -435,10 +446,10 @@ a:hover {
   margin: 0 auto;
   max-width: 300px;
 } 
-.footer h3 {
+/*.footer h3 {
   border-bottom: 1px solid #333333;
   padding-bottom: 10px;
-}
+}*/
 h3 {
     display: block;
     font-size: 1.17em;
@@ -446,9 +457,24 @@ h3 {
 }
 
 @media (max-width: 1024px) {
+
+  .main {
+    box-sizing: border-box;
+    padding-right: 0;
+    width: calc(100% - 250px); }
   .right-sidebar {
-    width: 100%;
-  }
+    padding-left: 0;
+    width: 100%; }
+  .footer-top {
+    -webkit-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap; }
+  .footer-widget {
+    width: calc(50% - 10px); }
+    .footer-widget:nth-child(2n) {
+      margin: 0 0 20px 10px; }
+    .footer-widget:nth-child(2n+1) {
+      margin: 0 10px 20px 0; } }
 }
 @media (max-width: 768px) {
   .main {
@@ -481,6 +507,9 @@ h3 {
   }
 }
 @media (max-width: 640px) {
+  .main {
+    margin: 20px 0 0;
+    padding: 0; }
   .content-item {
     margin: 0 0 20px;
     width: 100%; }
@@ -492,4 +521,12 @@ h3 {
   .right {
     width: 100%;
   }
+  .footer {
+    margin: 0 0 20px; }
+    .footer .footer-top,
+    .footer .footer-bottom {
+      margin: 0; }
+    .footer .footer-widget {
+      margin: 0 0 20px;
+      width: 100%; } }
 }
